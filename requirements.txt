@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+yfinance
+yahooquery
+google-generativeai>=0.8.3
+gspread
